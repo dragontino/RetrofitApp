@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitApp</string>
+    <string name="image_movie">image movie</string>
+    <string name="real_name_text">(%s)</string>
+</resources>
